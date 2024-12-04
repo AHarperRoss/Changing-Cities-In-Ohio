@@ -8,4 +8,4 @@ A study of nighttime lights data and population data to analyze the changing siz
 - [Change in Lit Area](https://github.com/AHarperRoss/Shrinking-Cities-In-Ohio/blob/main/Project_Data/Percent_Change_Median_Lit_Area.gpkg)
 
 ## Project Deliverables
-- [Shrinking Cities and Increasing Suburbanization in Ohio Story Map](https://github.com/AHarperRoss/Shrinking-Cities-In-Ohio/blob/main/Project_Deliverables/Shrinking%20Cities%20and%20Increasing%20Suburbanization%20Story%20Map.pdf)
+- [Shrinking Cities and Increasing Suburbanization in Ohio Story Map](https://storymaps.arcgis.com/stories/0b402da67c5c4474ac7224baa0452062)
