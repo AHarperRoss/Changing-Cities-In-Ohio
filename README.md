@@ -15,4 +15,4 @@ A study of nighttime lights data and population data to analyze the changing siz
 - [Total Population Change Franklin County](https://github.com/AHarperRoss/Changing-Cities-In-Ohio/blob/main/Project_Data/ZIP_Files/FranklinCountyTotalPopPctCh.zip)
 
 ## Project Deliverables
-- [Shrinking Cities and Increasing Suburbanization in Ohio Story Map](https://arcg.is/1Ti4fW0)
+- [Change in Urbanization and Built Area in Ohio Story Map](https://arcg.is/1Ti4fW0)
